@@ -1,0 +1,15 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "agusmade",
+    "repo": "sample-project-4",
+    "branch": "master"
+  },
+  "name": "Sample Project 4",
+  "description": "Donec venenatis vitae urna ut porta",
+  "version": "1.0.0",
+  "projectId": {
+    "type": "BigNumber",
+    "hex": "0x00"
+  }
+}
