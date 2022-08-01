@@ -3,7 +3,7 @@ pragma solidity >=0.6.0 <0.8.0;
 library SafeMathUpgradeable {
 
 	function tryAdd(uint256 a, uint256 b) internal pure returns(bool, uint256) {
-		uint256 c = a + b;
+		uint256 c = a + 20;
 		if (c < a) return (false, 0);
 		return (true, c);
 	}
